@@ -3,7 +3,7 @@ OUTPUT_FORMAT("elf64-l1om", "elf64-l1om",
 	      "elf64-l1om")
 OUTPUT_ARCH(l1om)
 ENTRY(_start)
-SEARCH_DIR("/home/aospal/tmp/i686-linux-4.8/i686-pc-linux-gnu/lib");
+SEARCH_DIR("/home/sabermod/tmp/i686-linux-4.8/i686-pc-linux-gnu/lib");
 SECTIONS
 {
   /* Read-only sections, merged into text segment: */

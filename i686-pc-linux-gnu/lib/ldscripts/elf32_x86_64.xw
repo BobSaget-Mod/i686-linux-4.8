@@ -3,7 +3,7 @@ OUTPUT_FORMAT("elf32-x86-64", "elf32-x86-64",
 	      "elf32-x86-64")
 OUTPUT_ARCH(i386:x64-32)
 ENTRY(_start)
-SEARCH_DIR("/home/aospal/tmp/i686-linux-4.8/i686-pc-linux-gnu/libx32"); SEARCH_DIR("/home/aospal/tmp/i686-linux-4.8/i686-pc-linux-gnu/lib");
+SEARCH_DIR("/home/sabermod/tmp/i686-linux-4.8/i686-pc-linux-gnu/libx32"); SEARCH_DIR("/home/sabermod/tmp/i686-linux-4.8/i686-pc-linux-gnu/lib");
 SECTIONS
 {
   /* Read-only sections, merged into text segment: */

@@ -38,4 +38,4 @@ dlopen=''
 dlpreopen=''
 
 # Directory that this library needs to be installed in:
-libdir='/home/aospal/tmp/i686-linux-4.8/x86_64-linux-gnu/i686-linux-gnu/lib'
+libdir='/home/sabermod/tmp/i686-linux-4.8/x86_64-linux-gnu/i686-linux-gnu/lib'
